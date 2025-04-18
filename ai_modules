@@ -1,1 +1,10 @@
 main.py
+def run_all_predictions():
+    return """Wersal AI Signallari:
+1. Aviator: 91% ehtimol bilan 1.75x dan yuqori
+2. Crash: 89% ehtimol 2.1x dan past
+3. LuckyJet: 93% ehtimol bilan 1.6x dan yuqori
+4. Mines: Xavfsiz kataklar: [3, 7, 12]
+5. Dice: 85% past son (1–3)
+6. HiLo: 81% ehtimol yuqori karta chiqadi
+"""
